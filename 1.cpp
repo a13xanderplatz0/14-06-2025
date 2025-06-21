@@ -1,4 +1,12 @@
 //https://cpp.sh/
+/*
+https://medium.com/@shrutipokale2016/c-oops-one-shot-06a47e07b3fd
+https://medium.com/@shrutipokale2016/c-stl-functors-one-shot-1963daaae164
+https://www.geeksforgeeks.org/functors-in-cpp/
+https://www.geeksforgeeks.org/cpp/operator-overloading-cpp/
+https://www.tutorialspoint.com/cplusplus/cpp_functions.htm
+
+*/
 #include <iostream>
 using namespace std;
 
